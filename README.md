@@ -1,1 +1,3 @@
-# SYResilienceViewDemo
+1.上拉进入新页面
+2.下拉头视图放大
+3.上滑悬停

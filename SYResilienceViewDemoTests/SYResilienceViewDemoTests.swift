@@ -2,7 +2,7 @@
 //  SYResilienceViewDemoTests.swift
 //  SYResilienceViewDemoTests
 //
-//  Created by 包曙源 on 2019/8/25.
+//  Created by bsy on 2019/8/25.
 //  Copyright © 2019 bsy. All rights reserved.
 //
 
